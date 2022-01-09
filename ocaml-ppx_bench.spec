@@ -43,7 +43,7 @@ używających biblioteki ppx_bench.
 
 %package devel
 Summary:	Syntax extension for writing in-line benchmarks in OCaml code - development part
-Summary(pl.UTF-8):	Rozszerzenie składni do pisania testów wydajności wewnątrz kodu w OCamlu - cześć programistyczna
+Summary(pl.UTF-8):	Rozszerzenie składni do pisania testów wydajności wewnątrz kodu w OCamlu - część programistyczna
 Group:		Development/Libraries
 Requires:	%{name} = %{version}-%{release}
 %requires_eq	ocaml
